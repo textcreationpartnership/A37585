@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for the security of His Highnes the Lord Protector his person, and continuance of the nation in peace and safety. At the Parliament begun at Westminster the 17th day of September, an. Dom 1656.</title>
+            <title>Public General Acts. 1656.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37585</idno>
+            <idno type="STC">Wing E1123</idno>
+            <idno type="STC">ESTC R25056</idno>
+            <idno type="EEBO-CITATION">99834849</idno>
+            <idno type="PROQUEST">99834849</idno>
+            <idno type="VID">39440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39440)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1259:5, 1758:22a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for the security of His Highnes the Lord Protector his person, and continuance of the nation in peace and safety. At the Parliament begun at Westminster the 17th day of September, an. Dom 1656.</title>
+                  <title>Public General Acts. 1656.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament. Proceedings. 1656. aut</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills and John Field, printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published in 1656.</note>
+                  <note>On A2r: last word in first line of text: 'and'; first word under initial: 'His'; last word in last full line of text: 'Conside'.</note>
+                  <note>Identified as part of Wing (2nd ed.) E874 on reel 1758; entry cancelled in Wing (CD-ROM).</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery (Early English books, 1641-1700, reel 1259), and the Union Theological Seminary, New York (Early English books, 1641-1700 reel 1758).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:39440:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb n="1" facs="tcp:39440:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>AN ACT For the Security of HIS HIGHNES THE LORD PROTECTOR His Perſon, And Continuance of the Nation in Peace and Safety.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the proſperity and ſafety of this Nation, and the Dominions thereunto belong<g ref="char:EOLhyphen"/>ing, very much dependeth (un<g ref="char:EOLhyphen"/>der God) upon the ſecurity and preſervation of the Perſon of His Highneſs; And for that it hath manifeſtly appeared, that divers wicked Plots and means have been of late deviſed and laid, as well in Foreign parts beyond the Seas, as alſo with<g ref="char:EOLhyphen"/>in this Nation, to the great endangering His Highneſs Perſon, and the embroyling this Commonwealth in new and inteſtine Wars, and Seditions, to the utter Ruine and Subverſion thereof, if the ſame had taken effect. There<g ref="char:EOLhyphen"/>fore, and for the preventing of ſuch great Perils and Miſchiefs as may hereafter enſue, by the like deteſtable Conſpiracies and Practiſes; The Parliament, sout of a deep Senſe and Conſide<g ref="char:EOLhyphen"/>ration
+<pb n="2" facs="tcp:39440:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 2 -->thereof, do deſire that it may be Enacted and Ordained, And be it Enacted and Ordain<g ref="char:EOLhyphen"/>ed by His Highneſs the Lord Protector, and the Parliament, and the Authority thereof, That if any perſon or perſons ſhall from and after the Tenth day of <hi>October,</hi> in the year of our Lord, One thouſand ſix hundred fifty and ſix, Attempt, Compaſs, or Imagine the death of the Lord Protector; And ſuch Attempting, Compaſſing, or Imagining ſhall declare by open deed; Or ſhall levy War, or Plot, Con<g ref="char:EOLhyphen"/>trive, or Endeavour to ſtir up, or raiſe Force againſt the Lord Protector, or the Government, to ſubvert or alter the ſame, and ſhall by open Deed declare ſuch Endeavour, Plotting or Con<g ref="char:EOLhyphen"/>triving; Or ſhall adviſedly and maliciouſly Proclaim, Declare, Publiſh, or Promote <hi>Charles Stuart,</hi> eldeſt Son to the late King, or any other Iſſue or Poſterity of the ſaid late King, or any other perſon, claiming by, from or under him, any, or either of them, to be King, Queen, or Chief Magiſtrate of <hi>Great Brittain,</hi> or of <hi>England, Scotland,</hi> or <hi>Ireland,</hi> or of any the Dominions thereto, or to any of them belonging; Or ſhall be Aiding, Aſſiſting, Comforting, or Abetting unto any perſon or perſons, that ſhall by any ways, or means whatſoever, endeavour or at<g ref="char:EOLhyphen"/>tempt the reviving, or ſetting up of any pretend<g ref="char:EOLhyphen"/>ed Right, Title, or Claim of the ſaid <hi>Charles Stuart,</hi> or of any other the Iſſue or Poſterity of the ſaid late King, or of any perſon or perſons claiming under him, or them, to any of the Of<g ref="char:EOLhyphen"/>fices, Stile, Title, Dignity, or Authority afore<g ref="char:EOLhyphen"/>ſaid, or any of them; Or ſhall hold any Intelli<g ref="char:EOLhyphen"/>gence or Correſpondence with the ſaid <hi>Charles Stuart,</hi> or with <hi>James Stuart,</hi> or <hi>Henry Stuart,</hi> or with
+<pb n="3" facs="tcp:39440:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 2 -->the late Queen their Mother, or any, or either of them; Or ſhall give or contribute any ſum or ſums of Money, or other Aid or Aſſiſtance to the ſaid <hi>Charles Stuart,</hi> or unto <hi>James</hi> and <hi>Henry</hi> Sons of the ſaid late King, or to the late Queen their Mother, or to any or either of them; Or ſhall Plot, Contrive, or Endeavour the Betraying, Surrendring, or Yeelding up any City, Town, Caſtle, Fort, Magazine, Ship, Veſſel, or Forces by Land, or by Sea, belonging to this Common-wealth, unto the Enemies thereof; Or ſhall adviſedly and mali<g ref="char:EOLhyphen"/>ciouſly Plot, Contrive, or Endeavour by any open Act, to ſtir up Mutiny in the Army or Fleet, or amongſt any of the Forces thereof, by Sea or Land, to withdraw any Officer or Souldier, Mariner or Sea-man, from his or their obedience to the Lord Protector; Or ſhall Invite, Procure, Aid, or Aſſiſt any Forreigner, or Stranger to invade theſe Nations of <hi>England, Scotland,</hi> or <hi>Ireland,</hi> or any the Dominions there<g ref="char:EOLhyphen"/>to belonging; Or ſhall Adhere to any Forces raiſed, or that ſhall be hereafter raiſed againſt the Lord Protector of this Common-wealth; Then all and every the Offences above menti<g ref="char:EOLhyphen"/>oned ſhall be, and are hereby Deemed, Ordain<g ref="char:EOLhyphen"/>ed, and Adjudged to be High Treaſon. And that in all ſuch Caſes, and upon all ſuch occa<g ref="char:EOLhyphen"/>ſions the Lord Chancellour, Lord Keeper, or Lords Commiſſioners of the Great Seal of <hi>England,</hi> for the time being, are hereby Autho<g ref="char:EOLhyphen"/>rized and required from time to time, by War<g ref="char:EOLhyphen"/>rant from His Highneſs the Lord Protector, to iſſue out one or more Commiſſion or Commiſ<g ref="char:EOLhyphen"/>ſions under the Great Seal of <hi>England,</hi> to the reſpective perſons hereafter named, That is to
+<pb n="4" facs="tcp:39440:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 3 -->ſay; For <hi>England</hi> and <hi>Wales,</hi> the Town of <hi>Bar<g ref="char:EOLhyphen"/>wick</hi> upon <hi>Tweed,</hi> and the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> The Lord Chancellour, Lord Keeper, or Lords Commiſſioners of the Great Seal of <hi>England</hi> for the time being; The Lords Com<g ref="char:EOLhyphen"/>miſſioners of the Treaſury for the time being; The Chief Iuſtice of the Vpper Bench; The Maſter of the Rolls; The Chief Iuſtice of the Common-Pleas; The Chief Baron of the Ex<g ref="char:EOLhyphen"/>chequer; The Iuſtices of the Vpper Bench; The Iuſtices of the Common-Pleas, The Barons of the Exchequer, and every of them for the time being, <hi>Liſſebone Long</hi> 
+               <abbr>Eſq</abbr> Recorder of the City of <hi>London, Roger Hill</hi> Serjeant at Law, <hi>Unton Crook</hi> Serjeant at Law, <hi>Eraſmus Earl</hi> Serjeant at Law, <hi>George Lord Eure,</hi> Sir <hi>William Strickland, William</hi> Earl of <hi>Salisbury,</hi> Sir <hi>Walter St. John</hi> Baronet, Sir <hi>Chriſtopher Pack,</hi> Sir <hi>Thomas Vyner,</hi> Sir <hi>John Dethick, Robert Tichburn, Thomas Foot, John Ireton,</hi> Aldermen of the City of <hi>London,</hi> Sir <hi>John Hobart</hi> Baronet, Sir <hi>William Roberts,</hi> Sir <hi>John Thoroughgood</hi> of <hi>Kenſington,</hi> Sir <hi>John Coppleſton,</hi> Sir <hi>Thomas Pride,</hi> Sir <hi>John Barkſtead</hi> Lieutenant of the Tower of <hi>London, Luke Robinſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Anthony Rous</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Hildeſley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Alexander Blake</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Owen Row</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Henry Hatſel</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edward Creſset</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Lucy</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Fothergill</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho<g ref="char:EOLhyphen"/>mas Whitegrave</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Charles George Cock</hi> one of the Iudges of the Admiralty, <hi>John Godolphin</hi> Doctor of the Laws, one of the Iudges of the Admiralty, Captain <hi>John Brown</hi> of <hi>Orpington, Dennis Bond</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Richard Combes, John Marſh</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Adam Waſhington, Francis Clinton, <hi>alias</hi> Fiennes, John Ward, Richard Dunton, James Chadwick, Buſsey Manſel,</hi> 
+               <abbr>Eſqs</abbr> Sir <hi>George Eleetwood</hi> of the Coun<g ref="char:EOLhyphen"/>ty
+<pb n="5" facs="tcp:39440:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 3 -->of <hi>Bucks</hi> Knight, <hi>Nicholas Green</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Bendiſh</hi> 
+               <abbr>Eſq</abbr> Sir <hi>John Trever, William Under<g ref="char:EOLhyphen"/>wood</hi> Alderman of the City of <hi>London, Arthur Stanhope</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Sir <hi>Francis Ruſsel</hi>
+               </hi> Baronet, <hi>John Bingham</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Croxton. Dudley Templer, Richard Lilburn</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>John James</hi> of <hi>Trippleton</hi> in the County of <hi>Hereford</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Dickenſon</hi> 
+               <abbr>Eſq</abbr> Alderman of the City of <hi>York, Samuel Moody</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Boughton, William Freeman, George Downing, John Hagget, Bennet Hoskins, John Corbet, William Foxwiſt, Edward Bulſtrode, Evan Seys,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Robert Wood</hi> of <hi>Breadonaſh</hi> in the County of <hi>Norfolk</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Anthony Nicoll, Azariah Husbands, John Pitman, Chriſtopher Liſter, John Carter, Robert Jermy, Peter Legay, Henry Cannon,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>John Geldart,</hi> Alderman of <hi>York, John Pal<g ref="char:EOLhyphen"/>mer</hi> Doctor of <hi>Phyſick, Francis Laſsels, John Stone, Alban Cox, John Grew</hi> of <hi>Bedford,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Cornelius Holland, Peter Ceeley, James Dewey, Henry Barring<g ref="char:EOLhyphen"/>ton,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>John Crofts, Wroth Rogers, William Cul<g ref="char:EOLhyphen"/>len, Abraham Babington, William Puckle, Charles Doyley, Edward Herbert, Henry King, Thomas Brooks, Nicholas Saltar,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Robert Weaver</hi> of <hi>Amſtrey</hi> in the County of <hi>Hereford</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Gor<g ref="char:EOLhyphen"/>ges</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Baſnet</hi> Alderman of <hi>Coventry, Robert Aldworth, Joſeph Hawkſworth, John Fiennes, George Byard, Edward Clud, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> Richard Fincher, John Carey</hi> of <hi>Dichley <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> Edmund Waring <hi>
+                     <abbr>Eſq</abbr>
+                  </hi> Thomas Allen</hi> Alderman of the City of <hi>London, Robert Caſtle, Thomas Gorges, Robert Shapſcot, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> Thomas Pury <hi>junior <abbr>Eſq</abbr>
+                  </hi> John Price, James Philips, William Put, John Spadman, William Shield, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> Sir <hi>John Read</hi> Baronet, <hi>John Upton, Ralph Ry<g ref="char:EOLhyphen"/>mere, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> Walter Biggs</hi> Alderman of <hi>London, William Goffe <hi>
+                     <abbr>Eſq</abbr>
+                  </hi> Francis Hacker, Hezekiah Haines, John Biſcoe, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> William Boteler</hi> of <hi>Oundle <hi>
+                     <abbr>Eſq</abbr>
+                  </hi>
+                  <pb n="6" facs="tcp:39440:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 4 -->Francis Underwood, George Gwyn, Henry Williams, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> Sir <hi>Thomas Honiwood, William Purefoy <hi>
+                     <abbr>Eſq</abbr>
+                  </hi> James Hely of Salisbury <hi>
+                     <abbr>Eſq</abbr>
+                  </hi>
+               </hi> or any ſeven<g ref="char:EOLhyphen"/>teen or more of them. And for <hi>Scotland, Roger</hi> Lord <hi>Broghill,</hi> General <hi>George Monk, Charles Howard</hi> of <hi>Naworth <hi>
+                     <abbr>Eſq</abbr>
+                  </hi>
+               </hi> Sir <hi>Edward Rhodes, John Swinton, Adrian Scroop, Samuel Disbrow, Nathaniel Whetham, <hi>Eſquires:</hi> Ceorge Smith, William Lawrence, Edward Moſely, Henry Goodier, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> Sir <hi>James Lermount</hi> of <hi>Bacomy, Alexander Peirſon, Andrew Ker, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> John</hi> Earl of <hi>Tweedale, <hi>Sir</hi> John Weyms</hi> of <hi>Bogy, <hi>Sir</hi> Andrew Ker</hi> of <hi>Greenhead, <hi>Sir</hi> James Macdowel, <hi>Sir</hi> Alexander Wedderburn, John Lockart</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Alexander Dowglaſs</hi> Doctor of Phyſick, <hi>Da<g ref="char:EOLhyphen"/>vid Barckley, Andrew Ramſey, Alexander Jeffery, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> Lord <hi>Strenever, Richard Aſhfield, Thomas Talbot, Timothy Wilks, Leonard Lidcot, Edmund Syler, Wil<g ref="char:EOLhyphen"/>liam Gough, Steven Winthrop, Joſeph Strange,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Charles Fairfax</hi> of <hi>Menſton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Maſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Davis</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Roger Sawry</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Peter Criſp</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ralph Knight</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Read</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Henry Whalley, William Daniel, Ralph Cobbet, Richard Mayor, Abraham Holmes, John Peirſon, Noel Butler<g ref="char:punc">▪</g> Miles Man, William Packer, Thomas Morgan, Wil<g ref="char:EOLhyphen"/>liam Michel, Thomas Fitch, Jeremy Tolhurſt,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Robert Fenwick</hi> of <hi>Bedlington</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Wilfrid Lawſon, William Fenwick</hi> of <hi>Wallington <hi>
+                     <abbr>Eſq</abbr>
+                  </hi> Luke Killingworth,</hi> Captain <hi>John Ogle</hi> of <hi>Kittley, Henry Horſley</hi> of <hi>Milburn Graunge, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> Thomas Bonner, George Dawſon, William Johnſon,</hi> Aldermen of <hi>Newcaſtle</hi> upon <hi>Tine, John Toppin, Edward Fen<g ref="char:EOLhyphen"/>wick</hi> of <hi>Stanton, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi> William Briſcoe <hi>
+                     <abbr>Eſq</abbr>
+                  </hi>
+               </hi> or any thirteen or more of them. And for <hi>Ireland,</hi> The Lord Chancellour, Chief Iuſtices of either Bench, Chief Baron, the Iuſtices of either Bench, the Barons of the <hi>Exchequer,</hi> and every
+<pb n="7" facs="tcp:39440:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 4 -->of them for the time being, <hi>Robert Goodwin<g ref="char:punc">▪</g> Matthew Thomlinſon, William Bury <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> Sir <hi>James Barry, Arthur Hill, Vincent Gookin, William Jephſon, Henry Markam, John Hewſon, Richard Lawrence, Thomas Cooper, Thomas Sadler, Jeremy Zankey, Henry Pritty, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> Sir <hi>John Reynolds,</hi> Knight, <hi>Robert Phaire, John Fowk, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> Sir <hi>Theophilus Jones,</hi> Sir <hi>Robert Meredith.</hi> Sir <hi>John Temple,</hi> Sir <hi>Robert King,</hi> Sir <hi>Hardreſs Waller, Solomon Richards</hi> the younger, Sir <hi>William Fenton, Henry Ingoldsby, George Ingoldsby, John King</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Richard Tigh</hi> Alderman of <hi>Dublin, John Bret, Henry Owen, Francis Bolton, Triſtram Berrisford, Morris Fenton, Robert Southwell,</hi> Sir <hi>Charles Coot, Childley Coot, Robert Ormsby, John Percival, Thomas Southwell, William Warden, Daniel Redman, Nicholas Purdon, Francis Fowlks, Walter Waller, Thomas Herbert, John Bice</hi> Recorder of <hi>Dublin, Anthony Morgan, Richard Blany, William Aſton, Edward Roberts, James Standiſh, John Vernon, William Duckenfield, Peter Wallis, Daniel Abbot, Robert Saunders, Peter Stubber, William Halſey, Ralph King, William Arnop, John Nelſon, John Bridges, Henry Jones, John Cook, James Trail,</hi> or any thirteen, or more of them.</p>
+            <p>Which ſaid Commiſſioners reſpectively ſhall by vertue of this Act have Authority to exa<g ref="char:EOLhyphen"/>mine, hear and determine all the Matters, Crimes and Offences aforeſaid, and all Cir<g ref="char:EOLhyphen"/>cumſtances thereof; and alſo to hear and de<g ref="char:EOLhyphen"/>termine all Miſpriſions of the Treaſons in this Act mentioned, and to take order for charging the Offender or Offenders, with all or any the Crimes, Matters or Things aforeſaid, and for the receiving of their perſonal anſwer thereun<g ref="char:EOLhyphen"/>to;
+<pb n="8" facs="tcp:39440:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 5 -->and for examination of Witneſſes upon Oath, (which the ſaid reſpective Commiſſion<g ref="char:EOLhyphen"/>ers are hereby authorized to adminiſter) and thereupon, or upon confeſſion of the party, or in default of ſuch anſwer, to proceed to Con<g ref="char:EOLhyphen"/>viction and final Sentence, as in caſes of High Treaſon, and Miſpriſion of Treaſon, accord<g ref="char:EOLhyphen"/>ing to Iuſtice, and the merits of the Cauſe; and ſuch final Sentence to execute, or cauſe to be executed ſpeedily and impartially: And that every perſon and perſons ſo Sentenced and ad<g ref="char:EOLhyphen"/>judged, ſhall forfeit as in caſes of High Trea<g ref="char:EOLhyphen"/>ſon and Miſpriſion of Treaſon. And it is here<g ref="char:EOLhyphen"/>by further Enacted, That the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners reſpectively are hereby authorized to meet and ſit at ſuch convenient time and place from time to time; as by the ſaid reſpective Commiſ<g ref="char:EOLhyphen"/>ſioners, or the major part of them, under their Hands and Seals ſhall be appointed, and to adjourn from time to time, and place to place, as the ſaid reſpective Commiſſioners, or the major part of them then meeting ſhall hold fit. And the ſaid reſpective Commiſſioners ſhall have Power and Authority to appoint all Officers needfull for the putting in execution the Matters and Things in this Act contained. And it is hereby further Enacted, That all Mayors, Sheriffs, Iuſtices of the Peace, Conſtables, Bayliffs, and all other Officers both Civil and Military, and all other the Good People of this Commonwealth, ſhall be ayding and aſſiſting to the ſaid reſpective Commiſſioners in the premiſes. And be it fur<g ref="char:EOLhyphen"/>ther enacted by the Authority aforeſaid, That every of the Commiſſioners aforenamed, before
+<pb n="9" facs="tcp:39440:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 5 -->he ſhall do or execute the Office of a Commiſſi<g ref="char:EOLhyphen"/>oner by vertue of this preſent Act, ſhall take the Oath enſuing;</p>
+            <p>
+               <q>I <hi>A. B.</hi> do ſwear, That I will well and truly, according to the beſt of my skill and knowledge, execute the ſeveral Powers given unto me and others, by a Commiſsion under the Great Seal of <hi>England,</hi> iſſued out in purſuance of an Act, Entituled, <hi>An Act for the Security of His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector His Perſon, and Continuance of the Na<g ref="char:EOLhyphen"/>tion in Peace and Safety.</hi>
+               </q>
+            </p>
+            <p>And the Lord Chancellor, Lord Keeper, or Lords Commiſsioners of the Great Seal of <hi>England</hi> for the time being, or any of them, are hereby authorized to adminiſter the ſaid Oath accordingly to the ſaid Commiſsioners for <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> And the Lord Deputy, Chancellor, Preſident of the Councel of <hi>Ireland,</hi> or any one of them, are hereby authori<g ref="char:EOLhyphen"/>zed to adminiſter the ſaid Oath accordingly to the ſaid Commiſsioners for <hi>Ireland:</hi> And the Preſident, or any one or more of the Council of <hi>Scotland,</hi> are hereby authorized to adminiſter the ſaid Oath accordingly to the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners for <hi>Scotland,</hi> Provided, That the ſaid reſpective Commiſſioners, or any of them, ſhall not by vertue or force of this Preſent Act, or any Power thereby given unto them, examine try or proceed againſt any perſon or perſons,
+<pb n="10" facs="tcp:39440:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->other then ſuch who ſhall be firſt by name ap<g ref="char:EOLhyphen"/>pointed by the Lord Protector, with the advice and conſent of his Council, to be by them the ſaid Commiſſioners ſo examined, tryed or pro<g ref="char:EOLhyphen"/>ceeded againſt. Provided alwaies, and it is hereby further enacted, That this Act, and the Powers and Authorities hereby given, ſhall continue and remain in force from henceforth, untill the end of the laſt Seſſion of the next Parliament, and no longer.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs. 1657.</p>
+            <pb facs="tcp:39440:6"/>
+            <!-- PDF PAGE 6 -->
+         </div>
+      </back>
+   </text>
+</TEI>
